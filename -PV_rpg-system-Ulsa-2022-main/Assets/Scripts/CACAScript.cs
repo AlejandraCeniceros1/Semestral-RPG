@@ -28,6 +28,8 @@ public class CACAScript : MonoBehaviour
 		_healthCaca -= 15.0f;
 
         }
+        vidaVisual.GetComponent<Slider>().value = _healthCaca;
+
     }
 
     
