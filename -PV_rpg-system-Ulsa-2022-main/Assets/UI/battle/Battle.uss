@@ -1,0 +1,56 @@
+VisualElement {
+}
+
+.container {
+    width: 100%;
+    align-items: center;
+    position: absolute;
+    bottom: 15px;
+}
+
+.battlecontainer {
+    width: 80%;
+    height: 230px;
+    background-color: rgba(59, 49, 202, 0.37);
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    position: relative;
+    flex-direction: row;
+}
+
+.characterinfo {
+    width: 33.3%;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.sprite {
+    background-image: url('project://database/Assets/Textures/Sprites/wizard-photo.png?fileID=2800000&guid=d7c4849e0bf44234bbe29a1dd35b984f&type=3#wizard-photo');
+    width: 120px;
+    height: 120px;
+}
+
+.spritecontainer {
+    width: 100%;
+    align-items: flex-start;
+}
+
+.statscontainer {
+}
+
+.stat {
+    align-items: flex-start;
+}
+
+.name {
+    width: 30%;
+    color: rgba(255, 255, 255, 255);
+    font-size: 33px;
+    -unity-text-align: upper-left;
+}
+
+.bar {
+    width: 70%;
+}

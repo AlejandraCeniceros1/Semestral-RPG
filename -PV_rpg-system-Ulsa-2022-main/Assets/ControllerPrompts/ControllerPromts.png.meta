@@ -1,0 +1,3356 @@
+fileFormatVersion: 2
+guid: c193ceae2b07bee48895bfb2ac9e525a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ControllerPromts_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 195
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a402ef8932e12134f89d34354d14d8f5
+      internalID: 278693166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 215
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712b8953260c33946afaae3495c93048
+      internalID: -2120033234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 195
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa46b7f17eb3f8f4cafedd066224d0d3
+      internalID: 1052431902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 215
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf172cf188d80f43bf67dbbc65ae500
+      internalID: -1021145127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 195
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afa863cb9c345a438bf16ab252dd2c6
+      internalID: -1029815851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 215
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cb476525506b641ac679841ff4dd83
+      internalID: 1517533508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 195
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eacee59a6f91a44398f979eac66c2c3
+      internalID: 92386783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 215
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b7830a02d63bb49a61c924d24dfc56
+      internalID: 104122728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 154
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afcf090880022c45b9e5cd1d6271f01
+      internalID: 67096796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 174
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7718d404cf0b43d4dbf31aac08aa13c3
+      internalID: 1597102910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 154
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60908a7e04779874c8d2b5f2f7fc28a9
+      internalID: -2090820723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 174
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa36b73625d04e48924c26546a50940
+      internalID: -1917068727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 154
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d60d93f481f066448aa7b2ac4144e8f
+      internalID: -1450050460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 174
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286dc4b9cd664b84dbabd02ea9fb3603
+      internalID: 926239117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 154
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ec6b8076d90284c975ea23fd694f61
+      internalID: 2029955590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 174
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d7318ef07384047a3845fed5bcc1fe
+      internalID: -232051769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 195
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa71d362e7de9c945a47aa28e94ea41f
+      internalID: -1555372821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 215
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8a6ff4bb46e3d4fbb9d5200657bc47
+      internalID: 1322435340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 195
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c02786df3b9d3843ab666822f089fbd
+      internalID: -339649171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_19
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 215
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bc80ab9beb8054ab0b451b6eebf1a2
+      internalID: 684118487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 195
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8ed2bb6a19c914c8e1e286aa895423
+      internalID: 1139248439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 215
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db3c7c071cefa143b8baeb361f66eab
+      internalID: -1603408795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 195
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a9d80eac0c1ea4f9f3630780d52bd1
+      internalID: -2105296289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 214
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7007d281189027146a687edf4624e286
+      internalID: 1080682176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_24
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 195
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7b33ba100a986408f91e5a2e11ab16
+      internalID: -1731017562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_25
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 214
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa1e465c41c03b41a9136df179ffb08
+      internalID: 1413070294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 152
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95653bb2dab457a4d9fef68857e61ca6
+      internalID: 1368496868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 172
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb193317349f3f24f9bf2f3a6d196609
+      internalID: -1056592528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_28
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 152
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8dc310f4d7c3947a7505513246d1f3
+      internalID: -296905853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_29
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 172
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b8bb883cbb6c14da6ed02b9a426f2d
+      internalID: 423707407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_30
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 152
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09137509265368f4f8e66364dc633cb1
+      internalID: -149990132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_31
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 172
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b6aa1516950fc4985548aa94a192ce
+      internalID: 1179620385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_32
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 152
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953ce3247b7244b4d9c1e43a0e86ed8b
+      internalID: 1833068747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_33
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 172
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0377986bcb05c9c47bf7f0b4a688d03f
+      internalID: -1008333307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_34
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 106
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e18246af7d179b4eb138f79ad4c6fe7
+      internalID: 671640472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_35
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 126
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54a831d86959ba45a5c75c487daacc6
+      internalID: -1039973915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_36
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 106
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214d29a78b749b04697424d700ed062a
+      internalID: 284364172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_37
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 126
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602a98a93bfab954db4bc415b15d028d
+      internalID: -124451697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_38
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 122
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087d823af313e964790016fd0ff50c09
+      internalID: 338123172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_39
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 122
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98257b445b2923649bc1b6bb5da31cfc
+      internalID: -1634755984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 122
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee26f2eafbfca874db35ddf9e6d1317b
+      internalID: 2050876646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 122
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e46582aef7c58e4e8dce5eb92dbbc4b
+      internalID: -124551231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_42
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 122
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ee514c29598de48aed5c622c3b524b
+      internalID: -336717333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_43
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc22730decd6ef849815be2f7f82ced8
+      internalID: 496474563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_44
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 96
+        width: 24
+        height: 19
+      alignment: 9
+      pivot: {x: 0.395, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2dc4367af2d8d47866e4e13fa4be55
+      internalID: -671988620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_45
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 91
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ed6aea59f027f449e9283a61575db4
+      internalID: 659225099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_46
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 96
+        width: 24
+        height: 19
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518036db6bdefa845a4f0856271a50c2
+      internalID: -1941091276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_47
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 96
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39527798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf328da31f2854e4bbd874aeec0d623d
+      internalID: -920625036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_48
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 222
+        width: 16
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3153012c4362feb4dab6c705526d42ec
+      internalID: 1116385511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_49
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 194
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.3888889, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6831a1ed995fea4897a0946f9c729b1
+      internalID: 1652376302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_50
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 176
+        width: 19
+        height: 17
+      alignment: 9
+      pivot: {x: 0.36842105, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c595a61925081644b9b957a33556bbe
+      internalID: -150283701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_51
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 157
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.3888889, y: 0.6111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32566a380bb9d5439d859b31d2528eb
+      internalID: -132365907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_52
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 136
+        width: 16
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a3098f6486d8c4fa762b081f1e0cbb
+      internalID: -534966294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_53
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 117
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.6111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b21e79f147a8424fa494296cd512d48
+      internalID: -135597636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_54
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 99
+        width: 19
+        height: 17
+      alignment: 9
+      pivot: {x: 0.6315789, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471e75cb34d660647837a4069d2f7a38
+      internalID: 1005947541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_55
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 80
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32615a7ee5067cc4a801e1dab304dcdf
+      internalID: 1462357176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_56
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 222
+        width: 16
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0d22bf89d804440ad25a6d42cd3a79
+      internalID: -1167525954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_57
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 194
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.3888889, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f176d2d98ad5b47ac5f462cfc44c93
+      internalID: 1174823259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_58
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 176
+        width: 19
+        height: 17
+      alignment: 9
+      pivot: {x: 0.36842105, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce25f513089f7504d960291bc924a36c
+      internalID: -61073791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_59
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 157
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.3888889, y: 0.6111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428f9ff9ea338ae42a89fd901594990b
+      internalID: -794331903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_60
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 136
+        width: 16
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814338fc768004a4387dc04d48ffbd92
+      internalID: 710111764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_61
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 117
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.6111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5da7914e7eced4989a7abdd64d60b2
+      internalID: 1109950570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_62
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 99
+        width: 19
+        height: 17
+      alignment: 9
+      pivot: {x: 0.6315789, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8901a8a44be4848aec79038c9b7dea
+      internalID: 576359569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_63
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 80
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493669cee39a20f48a7c527ac2817637
+      internalID: -414476226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_64
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 222
+        width: 16
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f34f2f4e9a982140bc31475347199df
+      internalID: 160464968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_65
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 194
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.3888889, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98a708bf06623d4ca10e5445a11a2cd
+      internalID: 2018171689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_66
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 176
+        width: 19
+        height: 17
+      alignment: 9
+      pivot: {x: 0.36842105, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8638dcd5c3a6c4b90166cb868e3850
+      internalID: 381884072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_67
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 157
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.3888889, y: 0.6111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c763405ad63574cb8eae7626074adf
+      internalID: 1035725848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_68
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 136
+        width: 16
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e5b85efdb133846b437b643bb169b9
+      internalID: -745238543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_69
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 117
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.6111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c6f324f50ac724f8d21e553d8ea480
+      internalID: -177357787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_70
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 99
+        width: 19
+        height: 17
+      alignment: 9
+      pivot: {x: 0.6315789, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb094d6d8874574b85264cbff1b27d5
+      internalID: 555584562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_71
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 80
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63f5257cde3a1a4590621d48fd8835d
+      internalID: -1008956909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_72
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 195
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9892685b743b5f44b398fdd07ab3943
+      internalID: -109363568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_73
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 215
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899864983e2ac9e42866dd7c9eeb2f53
+      internalID: -1322697072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_74
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 195
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e6a92bf117adc49a6dc86ade8d6fba
+      internalID: 1750599269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_75
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 215
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a21333e169a5f4a8e316687c014922
+      internalID: -624179351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_76
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 195
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6a4662e33362748a8b9fbcb8cfd463
+      internalID: -1196443062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_77
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 215
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3cf9f9e0729a04ab8409e6ab0e43cf
+      internalID: -1440462058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_78
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 215
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d5711d07bd14c469e0cfb456b20df0
+      internalID: 597615245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_79
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 195
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66e9454a3661184f87255ed7b2cc943
+      internalID: 865780085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_80
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 154
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15da41d29dc6b2479aa4d34fdda9659
+      internalID: -414880716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_81
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 174
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eda82ea97224bb4b81880354c2b5f7b
+      internalID: 1935903396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_82
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 154
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d551fb1a5cb62284fb775390d7852310
+      internalID: -766558934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_83
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 174
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2d4c58ab4be0c4e93515ae8bb1ac87
+      internalID: 1822032226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_84
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 154
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8c3c47ae1c1dd4db033009f4cfc7ea
+      internalID: -2002213240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_85
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 174
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323c6b6cf27fe08468aa611de43c8abd
+      internalID: 1121228600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_86
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 154
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093b9083ba3a2244cbc4d0a3260467e1
+      internalID: 386850117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_87
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 174
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f6e87e4ddb16e4dbec6ae292248cc3
+      internalID: -2062404015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_88
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 194
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4ff34e398e72042a8745bb96adc3f7
+      internalID: -1505269441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_89
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 217
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e765892ce9e1454f967663c88ada719
+      internalID: -369811270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_90
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 194
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cbca85a6f238a40b3335dfef5c3582
+      internalID: 1304896510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_91
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 217
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a661efac31ffdd478e1be02ffeafa49
+      internalID: -367664054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_92
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 194
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46472e653013d2458c02f9f979d724c
+      internalID: 1649624835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_93
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 217
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4d56196e7cb9744ad1a6f08a4486f3
+      internalID: -188713537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_94
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 195
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b87ddb9d4b8fc0408dee3f2b53a9240
+      internalID: -172441206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_95
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 214
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7af1d3fc3cc2c42b31d72c61c35425
+      internalID: -2145944888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_96
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 151
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bd94b95c1837e4493da8464131423f
+      internalID: -1258988418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_97
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 171
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88225a040afb754468a4973dda854d8d
+      internalID: -2029388805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_98
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 151
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f580f97b72f755d4ba5b57f07393467a
+      internalID: 1679564212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_99
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 171
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da8879e327e4b143a04339ea08e5fcc
+      internalID: -2039488693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_100
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 151
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d4555ab2be8524ba28ecc94c815694
+      internalID: 919787761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_101
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 171
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383e17455dfa88a498702a6b50628974
+      internalID: -56737950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_102
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 151
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1380f2d8d770bca4eb248262bb1ca8a2
+      internalID: -1495193187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_103
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 171
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532f0918de38342419808094fad772b8
+      internalID: 356022454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_104
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 126
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476c10d4beb881d4ca5d30603b914f93
+      internalID: 404559632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_105
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 122
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcf98c080bc50e4aaf09d1d32d83cfc
+      internalID: -1977392933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_106
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 122
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da3503e0390b2a49a00179cb8aacf63
+      internalID: -551262156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 122
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a192735589f0bf4c9e0c1b813591e00
+      internalID: 1664970044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_108
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 122
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5d3d838e5fcdf4194ac2160a4545c2
+      internalID: 1600672576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_109
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 122
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbff3697267b2348b036e137b84330c
+      internalID: -2141482697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_110
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 96
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24449fadf6ca204d83d6a805dc5973e
+      internalID: 1716752942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_111
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 96
+        width: 24
+        height: 19
+      alignment: 9
+      pivot: {x: 0.3942655, y: 0.49850264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e26c7cb29118a74a8677755dbae5622
+      internalID: 1988939054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_112
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 92
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4982605, y: 0.5619259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f53feae8aa0e3a4592640871fb31b9a
+      internalID: 293533374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_113
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 96
+        width: 24
+        height: 19
+      alignment: 9
+      pivot: {x: 0.6032092, y: 0.4982613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362afa4f2d81d5343adbc5ea798a1b92
+      internalID: 665385821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_114
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 96
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0.4999984, y: 0.41240525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8296150b98b464e9df840927321433
+      internalID: -1332736288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_115
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 22
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f00379759386e04599f7ae74c516dd1
+      internalID: 1728619877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_116
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 42
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f5a16aca042ac459df0d9c77fd78e9
+      internalID: -1413797336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_117
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 22
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df14bd988490ba43acff9dc1409ef54
+      internalID: 2013122479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_118
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 42
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c252882728fc740a2d0132b8690756
+      internalID: 1934870859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_119
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 22
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cda32a508af764ca78fe264e429530
+      internalID: 1980187704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_120
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 42
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677351dfcf14c374aac2af38f01e26da
+      internalID: 187159295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_121
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 22
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf90bedc06817f44962501ccf4531f8
+      internalID: 561858070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_122
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 42
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7788b593a71a970418bd75d8abed5993
+      internalID: -1757135690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_123
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 23
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1532a2d73cb680343a56f4722964ee83
+      internalID: 1696546611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_124
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 42
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f34d3b51bca82d4580aed2593b09dbb
+      internalID: -1023915957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_125
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 23
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e35e337c8868fb4fa0071f408eb6920
+      internalID: -511998549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_126
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 42
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb973c1ca713fec4695541d000824861
+      internalID: -1963629966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_127
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 23
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bd25b81dbb06e4296a49d5e7d410e2
+      internalID: 951062131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_128
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 42
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d779ba08624e2d4c98763cc2c81590c
+      internalID: 1989239891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_129
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 23
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b7bedb82e73834dbf02a5fb42d8f5b
+      internalID: 1706808456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_130
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 42
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c52ddceb0d71f48b8f8ad6279aa3b6
+      internalID: -265426509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_131
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 24
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5799ded7a52b2fc4b9db505ce295901e
+      internalID: 1803313802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_132
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 43
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3a0039912c1014690b4b2a67081113
+      internalID: 1753101530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_133
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 24
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ae495210907c642ab263886614af5f
+      internalID: 1522939935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_134
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 43
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6289513e100404a4794ba7c72fb1e521
+      internalID: 1879794518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_135
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 40
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd94263eb8b9c742a8e39540cde2834
+      internalID: -1377984718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_136
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 40
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb20b1ecd48d334abeed22f402d0249
+      internalID: 187964804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_137
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 31
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b15c38350b09804ab0364339c603671
+      internalID: -1865945963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_138
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 31
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50eae2cfcc172eb4a96eb88ff85eaa3a
+      internalID: 636106264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_139
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 24
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8b384d806652f4b816c0a525a1cc9e
+      internalID: 1379674927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_140
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 43
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff98e2adcd37f84a9a6c6911a960b5d
+      internalID: 311513517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_141
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 24
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ff52afc6afb21469f6c515c0f19b07
+      internalID: 131665934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_142
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 43
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db35cb74cc7c3b1458cb19f6ec98af41
+      internalID: 2144522250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_143
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 24
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52ed549bfcd61e4c86c22d2fce833a9
+      internalID: 874591604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_144
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 44
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd2785db73c7e74eb0271e6dc9619e6
+      internalID: -1914700462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_145
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 24
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a95a80696cf684d9f85d33cfebc1cd
+      internalID: -247446100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControllerPromts_146
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 44
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0267eed974c4743bb36cc5872a443e
+      internalID: 2087794983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ControllerPromts_76: -1196443062
+      ControllerPromts_77: -1440462058
+      ControllerPromts_75: -624179351
+      ControllerPromts_135: -1377984718
+      ControllerPromts_136: 187964804
+      ControllerPromts_108: 1600672576
+      ControllerPromts_142: 2144522250
+      ControllerPromts_22: -2105296289
+      ControllerPromts_96: -1258988418
+      ControllerPromts_8: 67096796
+      ControllerPromts_106: -551262156
+      ControllerPromts_68: -745238543
+      ControllerPromts_118: 1934870859
+      ControllerPromts_87: -2062404015
+      ControllerPromts_146: 2087794983
+      ControllerPromts_6: 92386783
+      ControllerPromts_130: -265426509
+      ControllerPromts_46: -1941091276
+      ControllerPromts_117: 2013122479
+      ControllerPromts_100: 919787761
+      ControllerPromts_119: 1980187704
+      ControllerPromts_5: 1517533508
+      ControllerPromts_69: -177357787
+      ControllerPromts_98: 1679564212
+      ControllerPromts_88: -1505269441
+      ControllerPromts_7: 104122728
+      ControllerPromts_28: -296905853
+      ControllerPromts_17: 1322435340
+      ControllerPromts_54: 1005947541
+      ControllerPromts_73: -1322697072
+      ControllerPromts_0: 278693166
+      ControllerPromts_27: -1056592528
+      ControllerPromts_72: -109363568
+      ControllerPromts_65: 2018171689
+      ControllerPromts_111: 1988939054
+      ControllerPromts_57: 1174823259
+      ControllerPromts_143: 874591604
+      ControllerPromts_66: 381884072
+      ControllerPromts_49: 1652376302
+      ControllerPromts_86: 386850117
+      ControllerPromts_4: -1029815851
+      ControllerPromts_71: -1008956909
+      ControllerPromts_115: 1728619877
+      ControllerPromts_131: 1803313802
+      ControllerPromts_53: -135597636
+      ControllerPromts_124: -1023915957
+      ControllerPromts_116: -1413797336
+      ControllerPromts_113: 665385821
+      ControllerPromts_47: -920625036
+      ControllerPromts_21: -1603408795
+      ControllerPromts_90: 1304896510
+      ControllerPromts_84: -2002213240
+      ControllerPromts_40: 2050876646
+      ControllerPromts_79: 865780085
+      ControllerPromts_50: -150283701
+      ControllerPromts_78: 597615245
+      ControllerPromts_107: 1664970044
+      ControllerPromts_42: -336717333
+      ControllerPromts_141: 131665934
+      ControllerPromts_38: 338123172
+      ControllerPromts_99: -2039488693
+      ControllerPromts_60: 710111764
+      ControllerPromts_139: 1379674927
+      ControllerPromts_45: 659225099
+      ControllerPromts_67: 1035725848
+      ControllerPromts_82: -766558934
+      ControllerPromts_92: 1649624835
+      ControllerPromts_110: 1716752942
+      ControllerPromts_31: 1179620385
+      ControllerPromts_59: -794331903
+      ControllerPromts_39: -1634755984
+      ControllerPromts_101: -56737950
+      ControllerPromts_97: -2029388805
+      ControllerPromts_105: -1977392933
+      ControllerPromts_18: -339649171
+      ControllerPromts_104: 404559632
+      ControllerPromts_126: -1963629966
+      ControllerPromts_9: 1597102910
+      ControllerPromts_23: 1080682176
+      ControllerPromts_64: 160464968
+      ControllerPromts_129: 1706808456
+      ControllerPromts_34: 671640472
+      ControllerPromts_144: -1914700462
+      ControllerPromts_121: 561858070
+      ControllerPromts_112: 293533374
+      ControllerPromts_3: -1021145127
+      ControllerPromts_140: 311513517
+      ControllerPromts_48: 1116385511
+      ControllerPromts_10: -2090820723
+      ControllerPromts_15: -232051769
+      ControllerPromts_16: -1555372821
+      ControllerPromts_138: 636106264
+      ControllerPromts_37: -124451697
+      ControllerPromts_51: -132365907
+      ControllerPromts_63: -414476226
+      ControllerPromts_2: 1052431902
+      ControllerPromts_74: 1750599269
+      ControllerPromts_30: -149990132
+      ControllerPromts_61: 1109950570
+      ControllerPromts_35: -1039973915
+      ControllerPromts_70: 555584562
+      ControllerPromts_114: -1332736288
+      ControllerPromts_122: -1757135690
+      ControllerPromts_14: 2029955590
+      ControllerPromts_56: -1167525954
+      ControllerPromts_120: 187159295
+      ControllerPromts_91: -367664054
+      ControllerPromts_125: -511998549
+      ControllerPromts_29: 423707407
+      ControllerPromts_20: 1139248439
+      ControllerPromts_62: 576359569
+      ControllerPromts_80: -414880716
+      ControllerPromts_13: 926239117
+      ControllerPromts_83: 1822032226
+      ControllerPromts_36: 284364172
+      ControllerPromts_85: 1121228600
+      ControllerPromts_24: -1731017562
+      ControllerPromts_102: -1495193187
+      ControllerPromts_55: 1462357176
+      ControllerPromts_94: -172441206
+      ControllerPromts_12: -1450050460
+      ControllerPromts_137: -1865945963
+      ControllerPromts_41: -124551231
+      ControllerPromts_58: -61073791
+      ControllerPromts_127: 951062131
+      ControllerPromts_128: 1989239891
+      ControllerPromts_132: 1753101530
+      ControllerPromts_93: -188713537
+      ControllerPromts_33: -1008333307
+      ControllerPromts_123: 1696546611
+      ControllerPromts_11: -1917068727
+      ControllerPromts_26: 1368496868
+      ControllerPromts_43: 496474563
+      ControllerPromts_145: -247446100
+      ControllerPromts_19: 684118487
+      ControllerPromts_95: -2145944888
+      ControllerPromts_32: 1833068747
+      ControllerPromts_25: 1413070294
+      ControllerPromts_109: -2141482697
+      ControllerPromts_81: 1935903396
+      ControllerPromts_103: 356022454
+      ControllerPromts_134: 1879794518
+      ControllerPromts_133: 1522939935
+      ControllerPromts_52: -534966294
+      ControllerPromts_44: -671988620
+      ControllerPromts_89: -369811270
+      ControllerPromts_1: -2120033234
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

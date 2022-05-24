@@ -1,0 +1,17 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:VisualElement name="CharacterInfo" class="characterinfo">
+        <ui:VisualElement name="SpriteContainer" class="spritecontainer">
+            <ui:VisualElement name="Sprite" class="sprite" />
+        </ui:VisualElement>
+        <ui:VisualElement name="StatsContainer" class="statscontainer">
+            <ui:VisualElement name="Stat" class="stat">
+                <ui:Label text="Health" display-tooltip-when-elided="true" class="name" />
+                <ui:ProgressBar title="0" high-value="100" tabindex="0" class="bar" />
+            </ui:VisualElement>
+            <ui:VisualElement name="Stat" class="stat">
+                <ui:Label text="Mana" display-tooltip-when-elided="true" class="name" />
+                <ui:ProgressBar title="0" high-value="100" tabindex="0" class="bar" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

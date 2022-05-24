@@ -1,0 +1,52 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/UI/battle/Battle.uss?fileID=7433441132597879392&amp;guid=e7c55819360cc6c43a4b490dbdd1164c&amp;type=3#Battle" />
+    <ui:VisualElement name="container" class="container">
+        <ui:VisualElement name="battlecontainer" class="battlecontainer" style="background-color: rgba(125, 49, 202, 0.47); border-top-left-radius: 20px; border-bottom-left-radius: 20px; border-top-right-radius: 20px; border-bottom-right-radius: 20px; flex-grow: 1; margin-left: 15px; margin-right: 15px; margin-top: 15px; margin-bottom: 15px; width: 70%; justify-content: flex-start; align-items: stretch;">
+            <ui:VisualElement name="CharacterInfo" class="characterinfo" style="bottom: 15px; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 15px;">
+                <ui:VisualElement name="SpriteContainer" class="spritecontainer" style="align-items: center; justify-content: space-around;">
+                    <ui:VisualElement name="Sprite" class="sprite" style="width: 110px;" />
+                </ui:VisualElement>
+                <ui:VisualElement name="StatsContainer" class="statscontainer" style="align-items: stretch; justify-content: center;">
+                    <ui:VisualElement name="Stat" class="stat">
+                        <ui:Label text="Health" display-tooltip-when-elided="true" class="name" style="align-items: stretch; width: 25%; font-size: 24px; padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px;" />
+                        <ui:ProgressBar title="0" high-value="100" class="bar" style="width: 100%; padding-left: 4px; padding-right: 4px; padding-top: 4px; padding-bottom: 4px; margin-left: 3px; margin-right: 3px; margin-top: 3px; margin-bottom: 3px;" />
+                    </ui:VisualElement>
+                    <ui:VisualElement name="Stat" class="stat">
+                        <ui:Label text="Mana" display-tooltip-when-elided="true" class="name" style="font-size: 24px; padding-left: 4px; padding-right: 4px; padding-top: 16px; padding-bottom: 4px;" />
+                        <ui:ProgressBar title="0" high-value="100" class="bar" style="width: 100%; margin-left: 3px; margin-right: 3px; margin-top: 3px; margin-bottom: 3px; padding-left: 4px; padding-right: 4px; padding-top: 4px; padding-bottom: 4px;" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement name="CharacterInfo" class="characterinfo" style="bottom: 15px; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 15px;">
+                <ui:VisualElement name="SpriteContainer" class="spritecontainer" style="align-items: center;">
+                    <ui:VisualElement name="Sprite" class="sprite" style="background-image: url(&apos;project://database/Assets/Textures/Sprites/lisa-photo.png?fileID=2800000&amp;guid=b45293789e5d4664e8f593451a52107e&amp;type=3#lisa-photo&apos;); width: 110px;" />
+                </ui:VisualElement>
+                <ui:VisualElement name="StatsContainer" class="statscontainer">
+                    <ui:VisualElement name="Stat" class="stat">
+                        <ui:Label text="Health" display-tooltip-when-elided="true" class="name" style="font-size: 24px; padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px;" />
+                        <ui:ProgressBar title="0" high-value="100" class="bar" style="margin-left: 3px; margin-right: 3px; margin-top: 3px; margin-bottom: 3px; padding-left: 4px; padding-right: 4px; padding-top: 4px; padding-bottom: 4px; width: 100%;" />
+                    </ui:VisualElement>
+                    <ui:VisualElement name="Stat" class="stat" style="margin-left: 3px; margin-right: 3px; margin-top: 3px; margin-bottom: 3px;">
+                        <ui:Label text="Mana" display-tooltip-when-elided="true" class="name" style="padding-left: 4px; padding-right: 4px; padding-top: 16px; padding-bottom: 4px; font-size: 24px;" />
+                        <ui:ProgressBar title="0" high-value="100" class="bar" style="margin-left: 3px; margin-right: 3px; margin-top: 3px; margin-bottom: 3px; padding-left: 4px; padding-right: 4px; padding-top: 4px; padding-bottom: 4px; width: 100%;" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement name="CharacterInfo" class="characterinfo" style="bottom: 15px; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 15px;">
+                <ui:VisualElement name="SpriteContainer" class="spritecontainer" style="align-items: center;">
+                    <ui:VisualElement name="Sprite" class="sprite" style="background-image: url(&apos;project://database/Assets/Textures/Sprites/bart-photo.png?fileID=2800000&amp;guid=55f64419a7e2a43488879766a092524f&amp;type=3#bart-photo&apos;); width: 110px; height: 110px;" />
+                </ui:VisualElement>
+                <ui:VisualElement name="StatsContainer" class="statscontainer">
+                    <ui:VisualElement name="Stat" class="stat">
+                        <ui:Label text="Health" display-tooltip-when-elided="true" class="name" style="font-size: 24px; padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px;" />
+                        <ui:ProgressBar title="0" high-value="100" class="bar" style="margin-left: 3px; margin-right: 3px; margin-top: 3px; margin-bottom: 3px; padding-left: 4px; padding-right: 4px; padding-top: 4px; padding-bottom: 4px; width: 100%;" />
+                    </ui:VisualElement>
+                    <ui:VisualElement name="Stat" class="stat">
+                        <ui:Label text="Mana" display-tooltip-when-elided="true" class="name" style="padding-left: 4px; padding-right: 4px; padding-top: 16px; padding-bottom: 4px; font-size: 24px;" />
+                        <ui:ProgressBar title="0" high-value="100" class="bar" style="margin-left: 3px; margin-right: 3px; margin-top: 3px; margin-bottom: 3px; padding-left: 4px; padding-right: 4px; padding-top: 4px; padding-bottom: 4px; width: 100%;" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

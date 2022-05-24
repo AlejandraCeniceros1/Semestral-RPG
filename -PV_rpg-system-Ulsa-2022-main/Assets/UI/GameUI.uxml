@@ -1,0 +1,34 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/GameUI.uss?fileID=7433441132597879392&amp;guid=0836b44a1ad176d4891109a0ca162ba2&amp;type=3#GameUI" />
+    <ui:VisualElement name="container" class="container" style="bottom: 20px; height: 280px;">
+        <ui:VisualElement name="partyContainer" class="partyContainer" style="height: auto; bottom: 20px; width: 75%; background-color: rgba(104, 47, 113, 0.74); align-items: stretch; border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px; border-top-left-radius: 8px; border-bottom-left-radius: 8px; border-top-right-radius: 8px; border-bottom-right-radius: 8px;">
+            <ui:VisualElement name="characterInfo" class="characterInfo" style="width: 33.3%; height: 200px; align-items: stretch;">
+                <ui:VisualElement name="Order" style="margin-left: 2px; margin-right: 2px; margin-top: 2px; margin-bottom: 2px;">
+                    <ui:VisualElement name="profile" class="profile" style="background-image: url(&apos;project://database/Assets/Textures/Sprites/wizard-photo.png?fileID=2800000&amp;guid=d7c4849e0bf44234bbe29a1dd35b984f&amp;type=3#wizard-photo&apos;); height: 90px;" />
+                    <ui:Label text="Mana" display-tooltip-when-elided="true" name="characterName" enable-rich-text="true" class="title" style="padding-left: 3px; padding-right: 3px; padding-top: 3px; padding-bottom: 3px;" />
+                    <uie:ProgressBar name="mana" title="  " low-value="84.9" tabindex="0" class="mana" style="width: 100%; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0;" />
+                    <ui:Label text="Health" display-tooltip-when-elided="true" name="characterName" enable-rich-text="true" class="title" style="padding-left: 3px; padding-right: 3px; padding-top: 3px; padding-bottom: 3px;" />
+                </ui:VisualElement>
+                <uie:ProgressBar name="health" title="  " low-value="80" class="health" style="padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; width: 100%;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="characterInfo" class="characterInfo" style="width: 33.3%; height: 200px; align-items: stretch;">
+                <ui:VisualElement name="Order" style="margin-left: 2px; margin-right: 2px; margin-top: 2px; margin-bottom: 2px;">
+                    <ui:VisualElement name="profile" class="profile" style="background-image: url(&apos;project://database/Assets/Textures/Sprites/lisa-photo.png?fileID=2800000&amp;guid=b45293789e5d4664e8f593451a52107e&amp;type=3#lisa-photo&apos;); height: 90px;" />
+                    <ui:Label text="Mana" display-tooltip-when-elided="true" name="characterName" enable-rich-text="true" class="title" style="padding-left: 3px; padding-right: 3px; padding-top: 3px; padding-bottom: 3px;" />
+                    <uie:ProgressBar name="mana" title=" " low-value="69.8" class="mana" style="width: 100%; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0;" />
+                    <ui:Label text="Health" display-tooltip-when-elided="true" name="characterName" enable-rich-text="true" class="title" style="padding-left: 3px; padding-right: 3px; padding-top: 3px; padding-bottom: 3px;" />
+                </ui:VisualElement>
+                <uie:ProgressBar name="health" title="  " low-value="80" class="health" style="padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; width: 100%;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="characterInfo" class="characterInfo" style="width: 33.3%; height: 200px; align-items: stretch;">
+                <ui:VisualElement name="Order" style="margin-left: 2px; margin-right: 2px; margin-top: 2px; margin-bottom: 2px;">
+                    <ui:VisualElement name="profile" class="profile" style="background-image: url(&apos;project://database/Assets/Textures/Sprites/bart-photo.png?fileID=2800000&amp;guid=55f64419a7e2a43488879766a092524f&amp;type=3#bart-photo&apos;); height: 90px;" />
+                    <ui:Label text="Mana" display-tooltip-when-elided="true" name="characterName" enable-rich-text="true" class="title" style="padding-left: 3px; padding-right: 3px; padding-top: 3px; padding-bottom: 3px;" />
+                    <uie:ProgressBar name="mana" title="  " low-value="63.1" class="mana" style="width: 100%; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0;" />
+                    <ui:Label text="Health" display-tooltip-when-elided="true" name="characterName" enable-rich-text="true" class="title" style="padding-left: 3px; padding-right: 3px; padding-top: 3px; padding-bottom: 3px;" />
+                </ui:VisualElement>
+                <uie:ProgressBar name="health" title="   " low-value="75" class="health" style="padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; width: 100%;" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
