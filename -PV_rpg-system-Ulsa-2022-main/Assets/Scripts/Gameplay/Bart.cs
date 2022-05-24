@@ -1,13 +1,19 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+
 
 public class Bart : Hero
 {
+         public Slider vidaVisual;
+
     protected override void Movement()
     {
         base.Movement();
         anim.SetFloat("move", movementValue);
+        
+        vidaVisual.GetComponent<Slider>().value = _healthHero;
 
         if(ImLeader)
         {

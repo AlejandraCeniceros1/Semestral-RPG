@@ -30,12 +30,8 @@ public class Player : MonoBehaviour
 		{
 			SceneManager.LoadScene(0); 
 		}
-/*
-        if (ZeroHealth = 0)
-        {
-            SceneManager.LoadScene(0);
-        }
-*/
+
+		
     }
 
 	void TakeDamage(int damage)
@@ -44,4 +40,6 @@ public class Player : MonoBehaviour
 
 		healthBar.SetHealth(currentHealth);
 	}
+
+	
 }
