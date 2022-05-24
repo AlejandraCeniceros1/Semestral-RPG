@@ -8,6 +8,11 @@ public class Maggie : Hero
 {       
     
      public Slider vidaVisual;
+      public Slider manaActual;
+
+    [SerializeField]
+    protected float _manaMaggie; 
+     
 
     protected override void Movement()
     {
@@ -17,10 +22,17 @@ public class Maggie : Hero
         anim.SetFloat("Move", Mathf.Abs(movementValue));
 
         vidaVisual.GetComponent<Slider>().value = _healthHero;
+        manaActual.GetComponent<Slider>().value = _manaMaggie;
+
 
          if(ImLeader)
         {
             anim.SetBool("Attack", isAttacking);
+            if (Input.GetKeyDown(KeyCode.X))
+            {
+            _manaMaggie -= 8.0f;
+            }
+
         }
 
          if (_healthHero <= 50)

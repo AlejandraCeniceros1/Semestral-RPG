@@ -7,7 +7,10 @@ using UnityEngine.UI;
 public class Lisa : Hero
 {
     public Slider vidaVisual;
+      public Slider manaActual;
 
+    [SerializeField]
+    protected float _manaLisa; 
 
     protected override void Movement()
     {
@@ -16,9 +19,15 @@ public class Lisa : Hero
         anim.SetFloat("move", movementValue);
         
         vidaVisual.GetComponent<Slider>().value = _healthHero;
+        manaActual.GetComponent<Slider>().value = _manaLisa;
+      
         if(ImLeader)
         {
             anim.SetBool("Attack", isAttacking);
+            if (Input.GetKeyDown(KeyCode.X))
+            {
+            _manaLisa -= 8.0f;
+            }
         }
 
         if (_healthHero <= 50)

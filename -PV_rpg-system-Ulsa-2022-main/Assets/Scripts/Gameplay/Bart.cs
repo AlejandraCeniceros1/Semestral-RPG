@@ -6,7 +6,12 @@ using UnityEngine.UI;
 
 public class Bart : Hero
 {
-         public Slider vidaVisual;
+     public Slider vidaVisual;
+      public Slider manaActual;
+
+      
+    [SerializeField]
+    protected float _manaBart; 
 
     protected override void Movement()
     {
@@ -14,10 +19,15 @@ public class Bart : Hero
         anim.SetFloat("move", movementValue);
         
         vidaVisual.GetComponent<Slider>().value = _healthHero;
+        manaActual.GetComponent<Slider>().value = _manaBart;
 
         if(ImLeader)
         {
             anim.SetBool("Attack", isAttacking);
+            if (Input.GetKeyDown(KeyCode.X))
+            {
+            _manaBart -= 8.0f;
+            }
         }
 
          if (_healthHero <= 50)
