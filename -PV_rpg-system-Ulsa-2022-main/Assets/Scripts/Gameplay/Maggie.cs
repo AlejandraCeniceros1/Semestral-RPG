@@ -14,6 +14,18 @@ public class Maggie : Hero
             anim.SetBool("Attack", isAttacking);
         }
 
+         if (_healthHero <= 50)
+        {
+            anim.SetBool("Damage", true);
+            
+        }
+
+        if (_healthHero <= 10)
+        {
+            anim.SetBool("Damage", true);
+            
+        }
+
         if (_healthHero <= 0)
         {
             anim.SetBool("Die", true);
@@ -28,7 +40,7 @@ public class Maggie : Hero
     {
         if(other.CompareTag("Ball"))
         {
-            _healthHero -= 5.0f;
+            _healthHero -= 15.0f;
         }
     }
 }

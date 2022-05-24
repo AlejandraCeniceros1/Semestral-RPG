@@ -924,7 +924,7 @@ MonoBehaviour:
   leaderMinDistance: 2
   minMaxAngle: {x: 0, y: 0}
   _rotSpeed: 20
-  _healthHero: 0
+  _healthHero: 100
 --- !u!95 &172352118
 Animator:
   serializedVersion: 4
@@ -1802,7 +1802,7 @@ GameObject:
   - component: {fileID: 294476854}
   m_Layer: 0
   m_Name: bala (1)
-  m_TagString: Untagged
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2432,7 +2432,7 @@ MonoBehaviour:
   leaderMinDistance: 2
   minMaxAngle: {x: 0, y: 0}
   _rotSpeed: 20
-  _healthHero: 0
+  _healthHero: 100
 --- !u!95 &409018441
 Animator:
   serializedVersion: 4
@@ -4650,7 +4650,7 @@ GameObject:
   - component: {fileID: 640616610}
   m_Layer: 0
   m_Name: bala (2)
-  m_TagString: Untagged
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6474,7 +6474,7 @@ MonoBehaviour:
   leaderMinDistance: 2
   minMaxAngle: {x: 0, y: 0}
   _rotSpeed: 20
-  _healthHero: 0
+  _healthHero: 100
 --- !u!136 &891950843
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -7075,7 +7075,7 @@ GameObject:
   - component: {fileID: 940354417}
   m_Layer: 0
   m_Name: Sphere
-  m_TagString: Untagged
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7119,7 +7119,7 @@ SphereCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 940354415}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Radius: 0.5
@@ -7144,7 +7144,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 226a6cf91caf84941b96c15eaa9c1ad0, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -7547,7 +7547,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 992959491}
-  m_LocalRotation: {x: 0.26657233, y: 0.000000023452985, z: -0.0000000064866374, w: 0.9638149}
+  m_LocalRotation: {x: 0.26657233, y: -0.000000023452989, z: 0.000000006486638, w: 0.9638149}
   m_LocalPosition: {x: 504.20306, y: 42.161, z: 490.37192}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -8445,7 +8445,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1107720567}
-  m_LocalRotation: {x: 0.26657233, y: 0.000000023452985, z: -0.0000000064866374, w: 0.9638149}
+  m_LocalRotation: {x: 0.26657233, y: -0.000000023452989, z: 0.000000006486638, w: 0.9638149}
   m_LocalPosition: {x: 504.20306, y: 42.161, z: 490.37192}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -9227,7 +9227,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 226a6cf91caf84941b96c15eaa9c1ad0, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -10003,7 +10003,7 @@ GameObject:
   - component: {fileID: 1354423092}
   m_Layer: 0
   m_Name: bala (3)
-  m_TagString: Untagged
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11825,7 +11825,7 @@ GameObject:
   - component: {fileID: 1682298293}
   m_Layer: 0
   m_Name: Sphere
-  m_TagString: Untagged
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11869,7 +11869,7 @@ SphereCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1682298291}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Radius: 0.5
@@ -11894,7 +11894,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 226a6cf91caf84941b96c15eaa9c1ad0, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -12522,7 +12522,7 @@ GameObject:
   - component: {fileID: 1813527304}
   m_Layer: 0
   m_Name: bala
-  m_TagString: Untagged
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12830,7 +12830,7 @@ GameObject:
   - component: {fileID: 1850067291}
   m_Layer: 0
   m_Name: Sphere
-  m_TagString: Untagged
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12874,7 +12874,7 @@ SphereCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1850067289}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Radius: 0.5
@@ -12899,7 +12899,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 226a6cf91caf84941b96c15eaa9c1ad0, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

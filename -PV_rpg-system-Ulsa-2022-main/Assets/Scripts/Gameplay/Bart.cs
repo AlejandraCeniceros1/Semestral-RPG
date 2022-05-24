@@ -13,7 +13,36 @@ public class Bart : Hero
         {
             anim.SetBool("Attack", isAttacking);
         }
+
+         if (_healthHero <= 50)
+        {
+            anim.SetBool("Damage", true);
+            
+        }
+
+        if (_healthHero <= 10)
+        {
+            anim.SetBool("Damage", true);
+            
+        }
+
+
+        if (_healthHero <= 0)
+        {
+            anim.SetBool("Die", true);
+            this.GetComponent<InputsController>().enabled = false;
+            agent.enabled = false;
+            Gamemanager.Instance.CurrentGameMode.ChangeLeader(transform);
+        }
         
+    }
+
+     void OnTriggerEnter(Collider other)
+    {
+        if(other.CompareTag("Ball"))
+        {
+            _healthHero -= 15.0f;
+        }
     }
 
 }
